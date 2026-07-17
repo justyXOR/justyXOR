@@ -25,7 +25,7 @@
 
 <div align="center">
   <b>Hobbies: </b> <span style="font-weight: bold;color: #d650e2;">Music</span>, <span style="font-weight: bold;color: #df4747;">Coding</span> <br>
-  <b>Working with: <a href="https://github.com/justyXOR/justyXOR/under_works.md">OpenZap</a></b> <br>
+  <b>Working with: <a href="under_works.md">OpenZap</a></b> <br>
   <b>Working at: <a href="https://fsproject.ru">FS PROJECT</a></b>
 </div>
 
