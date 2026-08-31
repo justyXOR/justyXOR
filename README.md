@@ -15,17 +15,16 @@
 <div align="center">
   <h2>
     I know:<br><br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,scss,go,python,tauri,rust,lua,vue" />  
+    <img src="https://skillicons.dev/icons?i=js,html,css,scss,go,python,tauri,lua,kotlin" />  
   </h2>
   <h2>
     I use:<br><br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,arch,github,ai" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,arch,github" />
   </h2>
 </div>
 
 <div align="center">
   <b>Hobbies: Music, Codding</b> <br>
-  <b>Working with: <a href="under_works.md">OpenZap</a></b> <br>
   <b>Working at: <a href="https://fsproject.ru">FS PROJECT</a></b>
 </div>
 
